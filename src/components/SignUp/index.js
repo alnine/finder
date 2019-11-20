@@ -1,4 +1,4 @@
-import SignUp from "./SignUp";
+import SignUp, {SignUpForm, SignUpLink} from "./SignUp";
 
 export default SignUp;
-export { SignUp };
+export { SignUp, SignUpForm, SignUpLink };
