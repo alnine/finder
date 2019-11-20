@@ -1,4 +1,4 @@
-import SignOut from "./SignOut";
+import SignOutButton from "./SignOut";
 
-export default SignOut;
-export { SignOut };
+export default SignOutButton;
+export { SignOutButton };
