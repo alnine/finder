@@ -1,4 +1,4 @@
-import SignIn from "./SignIn";
+import SignIn, { SignInForm } from "./SignIn";
 
 export default SignIn;
-export { SignIn };
+export { SignIn, SignInForm };
