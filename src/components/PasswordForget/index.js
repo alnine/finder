@@ -1,4 +1,4 @@
-import PasswordForget from "./PasswordForget";
+import PasswordForget, { PasswordForgetLink } from "./PasswordForget";
 
 export default PasswordForget;
-export { PasswordForget };
+export { PasswordForget, PasswordForgetLink };
